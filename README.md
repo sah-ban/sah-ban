@@ -34,11 +34,11 @@ Building consumer crypto apps and Farcaster miniapps. I ship things that solve r
 
 - 🔤 **Fname Manager** · [GitHub](https://github.com/sah-ban/change-fname) · [Live](https://fname.itscashless.com) — change your Farcaster username; something the native app doesn't support
 - 🌍 **Onchain Petition** · [GitHub](https://github.com/sah-ban/petition) · [Live](https://basepetition.com) — decentralized petition platform on Base; create, sign & verify on-chain
-- 📆 **Xchedule** · `private` · [Live](https://xchedule.xyz) — on-chain scheduler for X posts, backed by smart contracts on Base mainnet; pairs with the [Xchedule Chrome extension](#chrome-extensions) below
+- 📆 **Xchedule** · `private` · [Live](https://xchedule.xyz) — App for [Xchedule Chrome extension](#chrome-extensions)
 
 ### Chrome Extensions
 
-- 🤖 **Xchedule** · `private` · [Live](#) — Chrome companion to the [Xchedule app](#apps--tools) above — auto-fills X.com's Schedule dialog with your selected time on the next available date; the date advances by one day on each confirm
+- 🤖 **Xchedule** · `private` · [Live](https://xchedule.xyz) — Chrome + Firefox extension that turns X's 6-click schedule picker into one click. Save your posting times once; the extension fills the rest.
 
 ### Experiments & Misc
 
